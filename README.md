@@ -1,7 +1,7 @@
 # Exp-No-10: Implementation of Classical Planning Algorithm 
 
-### NAME: HANIEL REENA D R
-### REG NO: 2305001008
+### NAME: DHANUSH G
+### REG NO: 2305002006
 
 ## AIM: 
 To implement classical planning algorithm for practical real-life situations
